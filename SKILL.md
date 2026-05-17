@@ -1,6 +1,6 @@
 ---
 name: conductor
-description: The Meta-Orchestrator. Routes intents to OpenSpec (state), GStack (expertise), and Superpowers (discipline). Translates context between them using system-level state and Markdown Batons. Use when asked to "take charge", "handle this end-to-end", or for any task whose risk/complexity requires multi-skill coordination.
+description: The Meta-Orchestrator. You MUST use this skill whenever the user asks you to "take charge", "handle end-to-end", "manage a feature", or when dealing with "critical bugs", "production issues", and "complex refactors". It coordinates OpenSpec, GStack, and Superpowers to ensure engineering discipline and state persistence. Trigger this skill if the task involves multi-step coordination, "feature development", "architecture changes", or "serious production issues". Do not handle complex engineering tasks without this orchestrator.
 ---
 
 # Conductor: Meta-Skill Orchestrator
